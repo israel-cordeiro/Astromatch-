@@ -3,7 +3,9 @@
 
 ### Tecnologias:
 -ReactJS
+
 -Styled Components
+
 -Axios
 
 ### Funcionalidades
